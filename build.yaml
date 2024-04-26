@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: corne_left
+    shield: skeletyl_v2_elitec_left
   - board: nice_nano_v2
-    shield: corne_right
+    shield: skeletyl_v2_elitec_right
